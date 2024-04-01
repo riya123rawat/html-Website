@@ -1,0 +1,36 @@
+header {
+    font-size:   30px;
+     margin-left: 30px;
+     text-align: left;
+     margin-left: 50px;
+ }
+ img
+ {
+   max-width: 200px;
+   max-height: 100px;
+ 
+ 
+ }
+ .hello {
+   position: fixed;
+   height: 40px;
+   width: 40px;
+   margin-top: 10px;
+    background-color: grey;
+   
+ }
+ footer {
+   margin-right: 15px;
+   font-size: 15px;
+   text-align: right;
+ 
+ }
+ p {
+   font-size: 40;
+ 
+ }
+ 
+ 
+ 
+ 
+ 
